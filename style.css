@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(238, 238, 238);
+}       
+
+.box{
+    margin:5px;
+    width:100px;
+    height:100px;
+    cursor: pointer;    
+}   
+
+.box-light{
+    background-color:rgb(56, 56, 56);
+}   
+
+.box-dark{
+    background-color:rgb(155, 155, 155);
+}   
+
